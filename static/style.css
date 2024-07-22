@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+button {
+    width: 200px;
+    height: 100px;
+    font-size: 18px;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#btn-ejercicio1 {
+    background-color: #6a0dad; /* color morado */
+}
+
+#btn-ejercicio2 {
+    background-color: #4caf50; /* color verde */
+}
